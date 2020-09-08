@@ -1,2 +1,2 @@
-# Rayne Sheffer Class Demo
+# Rayne Sheffer Class Demo 
 My first HTML &amp; CSS lab, and GitHub project.
